@@ -35,7 +35,7 @@
     "@ronomon/direct-io": "^3.0.1",
     "@sentry/electron": "^4.24.0",
     "axios": "^1.6.8",
-    "debug": "4.4.1",
+    "debug": "4.4.3",
     "drivelist": "^12.0.2",
     "electron-squirrel-startup": "^1.0.0",
     "electron-updater": "6.1.8",
